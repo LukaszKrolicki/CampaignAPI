@@ -1,0 +1,513 @@
+2025-02-03 18:55:43.368055+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null, primary key (id)) [42001-232]
+2025-02-03 18:55:43.379054+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 18:55:56.537052+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null, primary key (id)) [42001-232]
+2025-02-03 18:55:56.548052+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 19:08:22.321049+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null, primary key (id)) [42001-232]
+2025-02-03 19:08:22.331050+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 19:12:06.281741+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null, primary key (id)) [42001-232]
+2025-02-03 19:12:06.295580+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 19:13:37.847510+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null, primary key (id)) [42001-232]
+2025-02-03 19:13:37.860495+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 19:15:16.754571+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null, primary key (id)) [42001-232]
+2025-02-03 19:15:16.764571+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 19:15:55.701438+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null, primary key (id)) [42001-232]
+2025-02-03 19:15:55.713440+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 19:17:10.748775+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null, primary key (id)) [42001-232]
+2025-02-03 19:17:10.758779+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 19:18:08.153588+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null, primary key (id)) [42001-232]
+2025-02-03 19:18:08.165591+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 19:33:30.438055+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null, primary key (id)) [42001-232]
+2025-02-03 19:33:30.451055+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 19:37:23.874386+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null, primary key (id)) [42001-232]
+2025-02-03 19:37:23.885387+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 19:43:03.015011+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null, primary key (id)) [42001-232]
+2025-02-03 19:43:03.027012+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 19:43:06.660377+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+insert into keywords (value,id) values (?,?) [42102-232]
+2025-02-03 19:44:57.320161+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+insert into keywords (value,id) values (?,?) [42102-232]
+2025-02-03 19:45:02.494176+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+insert into keywords (value,id) values (?,?) [42102-232]
+2025-02-03 19:45:06.183277+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+insert into keywords (value,id) values (?,?) [42102-232]
+2025-02-03 19:45:16.946388+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+insert into keywords (value,id) values (?,?) [42102-232]
+2025-02-03 18:48:24 database: flush
+org.h2.message.DbException: Błąd ogólny: "org.h2.mvstore.MVStoreException: The file is locked: C:/Users/Krolik/IdeaProjects/CampaignAPI/data/testdb.mv.db [2.2.220/7]"
+General error: "org.h2.mvstore.MVStoreException: The file is locked: C:/Users/Krolik/IdeaProjects/CampaignAPI/data/testdb.mv.db [2.2.220/7]" [50000-220]
+	at org.h2.message.DbException.get(DbException.java:212)
+	at org.h2.message.DbException.convert(DbException.java:407)
+	at org.h2.mvstore.db.Store.lambda$new$0(Store.java:122)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:1547)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:371)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:291)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:2036)
+	at org.h2.mvstore.db.Store.<init>(Store.java:133)
+	at org.h2.engine.Database.<init>(Database.java:324)
+	at org.h2.engine.Engine.openSession(Engine.java:92)
+	at org.h2.engine.Engine.openSession(Engine.java:222)
+	at org.h2.engine.Engine.createSession(Engine.java:201)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:338)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:122)
+	at org.h2.Driver.connect(Driver.java:59)
+	at com.intellij.database.remote.jdbc.helpers.JdbcHelperImpl.connect(JdbcHelperImpl.java:790)
+	at com.intellij.database.remote.jdbc.impl.RemoteDriverImpl.connect(RemoteDriverImpl.java:153)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:714)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:598)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:844)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:721)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:720)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: Błąd ogólny: "org.h2.mvstore.MVStoreException: The file is locked: C:/Users/Krolik/IdeaProjects/CampaignAPI/data/testdb.mv.db [2.2.220/7]"
+General error: "org.h2.mvstore.MVStoreException: The file is locked: C:/Users/Krolik/IdeaProjects/CampaignAPI/data/testdb.mv.db [2.2.220/7]" [50000-220]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:566)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	... 32 more
+Caused by: org.h2.mvstore.MVStoreException: The file is locked: C:/Users/Krolik/IdeaProjects/CampaignAPI/data/testdb.mv.db [2.2.220/7]
+	at org.h2.mvstore.DataUtils.newMVStoreException(DataUtils.java:996)
+	at org.h2.mvstore.SingleFileStore.lockFileChannel(SingleFileStore.java:143)
+	at org.h2.mvstore.SingleFileStore.open(SingleFileStore.java:117)
+	at org.h2.mvstore.SingleFileStore.open(SingleFileStore.java:81)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:286)
+	... 26 more
+2025-02-03 18:48:38 database: flush
+org.h2.message.DbException: Błąd ogólny: "org.h2.mvstore.MVStoreException: The file is locked: C:/Users/Krolik/IdeaProjects/CampaignAPI/data/testdb.mv.db [2.2.220/7]"
+General error: "org.h2.mvstore.MVStoreException: The file is locked: C:/Users/Krolik/IdeaProjects/CampaignAPI/data/testdb.mv.db [2.2.220/7]" [50000-220]
+	at org.h2.message.DbException.get(DbException.java:212)
+	at org.h2.message.DbException.convert(DbException.java:407)
+	at org.h2.mvstore.db.Store.lambda$new$0(Store.java:122)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:1547)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:371)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:291)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:2036)
+	at org.h2.mvstore.db.Store.<init>(Store.java:133)
+	at org.h2.engine.Database.<init>(Database.java:324)
+	at org.h2.engine.Engine.openSession(Engine.java:92)
+	at org.h2.engine.Engine.openSession(Engine.java:222)
+	at org.h2.engine.Engine.createSession(Engine.java:201)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:338)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:122)
+	at org.h2.Driver.connect(Driver.java:59)
+	at com.intellij.database.remote.jdbc.helpers.JdbcHelperImpl.connect(JdbcHelperImpl.java:790)
+	at com.intellij.database.remote.jdbc.impl.RemoteDriverImpl.connect(RemoteDriverImpl.java:153)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:714)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:598)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:844)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:721)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:720)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: Błąd ogólny: "org.h2.mvstore.MVStoreException: The file is locked: C:/Users/Krolik/IdeaProjects/CampaignAPI/data/testdb.mv.db [2.2.220/7]"
+General error: "org.h2.mvstore.MVStoreException: The file is locked: C:/Users/Krolik/IdeaProjects/CampaignAPI/data/testdb.mv.db [2.2.220/7]" [50000-220]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:566)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	... 32 more
+Caused by: org.h2.mvstore.MVStoreException: The file is locked: C:/Users/Krolik/IdeaProjects/CampaignAPI/data/testdb.mv.db [2.2.220/7]
+	at org.h2.mvstore.DataUtils.newMVStoreException(DataUtils.java:996)
+	at org.h2.mvstore.SingleFileStore.lockFileChannel(SingleFileStore.java:143)
+	at org.h2.mvstore.SingleFileStore.open(SingleFileStore.java:117)
+	at org.h2.mvstore.SingleFileStore.open(SingleFileStore.java:81)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:286)
+	... 26 more
+2025-02-03 19:48:56.556154+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null, primary key (id)) [42001-232]
+2025-02-03 19:48:56.568155+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 19:48:57.495730+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+insert into keywords (value,id) values (?,?) [42102-232]
+2025-02-03 19:49:07.999683+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+insert into keywords (value,id) values (?,?) [42102-232]
+2025-02-03 19:50:16.510774+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "[*]CAMPAIGN_ID CAMPAIGN_KEYWORDS CAMPAIGNS TOWNS TOWNS TOWNS TOWNS TOWNS TOWNS"; oczekiwano "COMMIT, CREATE, CALL, CHECKPOINT, COMMENT"
+Syntax error in SQL statement "[*]CAMPAIGN_ID CAMPAIGN_KEYWORDS CAMPAIGNS TOWNS TOWNS TOWNS TOWNS TOWNS TOWNS"; expected "COMMIT, CREATE, CALL, CHECKPOINT, COMMENT"; SQL statement:
+CAMPAIGN_ID CAMPAIGN_KEYWORDS CAMPAIGNS TOWNS TOWNS TOWNS TOWNS TOWNS TOWNS [42001-232]
+2025-02-03 19:57:24.572438+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null, primary key (id)) [42001-232]
+2025-02-03 19:57:24.584439+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 19:58:03.296712+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "select k1_0.id,k1_0.[*]value from keywords k1_0"; oczekiwano "identifier"
+Syntax error in SQL statement "select k1_0.id,k1_0.[*]value from keywords k1_0"; expected "identifier"; SQL statement:
+select k1_0.id,k1_0.value from keywords k1_0 [42001-232]
+2025-02-03 19:58:09.170939+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "select k1_0.id,k1_0.[*]value from keywords k1_0"; oczekiwano "identifier"
+Syntax error in SQL statement "select k1_0.id,k1_0.[*]value from keywords k1_0"; expected "identifier"; SQL statement:
+select k1_0.id,k1_0.value from keywords k1_0 [42001-232]
+2025-02-03 19:59:56.042748+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 19:59:56.049748+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 20:01:12.326718+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:01:12.332718+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 20:02:34.824216+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+insert into keywords (value,id) values (?,?) [42102-232]
+2025-02-03 20:05:22.696473+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:05:22.705471+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 20:05:41.771893+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:08:25.944585+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:08:25.951583+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 20:10:23.383691+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:10:23.390696+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 20:11:47.836671+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:11:47.843673+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:11:47.845670+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 20:13:57.517279+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:13:57.524278+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:13:57.526280+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 20:16:29.327667+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:16:29.335667+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:16:29.337668+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 20:19:16.854249+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:19:16.862250+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:19:16.864249+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS" nie istnieje
+Table "KEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKnv1564vnspdhmhqw1g9sikblx foreign key (keyword_id) references keywords [42102-232]
+2025-02-03 20:19:57.161296+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords2 (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords2 (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords2 (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:19:57.170297+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:19:57.172296+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS2" nie istnieje
+Table "KEYWORDS2" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKq8n9p3vv4g8ol4jou6naah9q2 foreign key (keyword_id) references keywords2 [42102-232]
+2025-02-03 20:20:19.193181+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords2 (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords2 (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords2 (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:20:19.201182+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:22:40.806251+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:22:40.813252+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:28:21.145193+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords_ (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords_ (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords_ (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:28:21.152192+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:28:21.153192+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS_" nie istnieje
+Table "KEYWORDS_" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKjfjbyua3myf6ms61pclbbk7cr foreign key (keyword_id) references keywords_ [42102-232]
+2025-02-03 20:28:50.134810+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS_" nie istnieje
+Table "KEYWORDS_" not found; SQL statement:
+insert into keywords_ (value,id) values (?,?) [42102-232]
+2025-02-03 20:30:35.762845+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords_ (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords_ (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords_ (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:30:35.770847+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:30:35.772848+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS_" nie istnieje
+Table "KEYWORDS_" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKjfjbyua3myf6ms61pclbbk7cr foreign key (keyword_id) references keywords_ [42102-232]
+2025-02-03 20:31:03.182088+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "CREATE TABLE keywords_ (\000d\000a    id UUID PRIMARY KEY,\000d\000a    [*]value VARCHAR(255) NOT NULL UNIQUE\000d\000a)"; oczekiwano "identifier"
+Syntax error in SQL statement "CREATE TABLE keywords_ (\000d\000a    id UUID PRIMARY KEY,\000d\000a    [*]value VARCHAR(255) NOT NULL UNIQUE\000d\000a)"; expected "identifier"; SQL statement:
+CREATE TABLE keywords_ (
+    id UUID PRIMARY KEY,
+    value VARCHAR(255) NOT NULL UNIQUE
+) [42001-232]
+2025-02-03 20:33:15.890594+01:00 jdbc[3]: null
+org.h2.message.DbException: Połączenie zostało zamknięte przez aplikacje i zostało usunięte przez kolektor nieużytków
+The connection was not closed by the application and is garbage collected [90018-232]
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.jdbc.JdbcConnection.closeOld(JdbcConnection.java:217)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:134)
+	at org.h2.Driver.connect(Driver.java:59)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:137)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:360)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:461)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:724)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:703)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: Połączenie zostało zamknięte przez aplikacje i zostało usunięte przez kolektor nieużytków
+The connection was not closed by the application and is garbage collected [90018-232]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:690)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	... 16 more
+2025-02-03 20:33:21.657431+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table keywords_ (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table keywords_ (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table keywords_ (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:33:21.665433+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:33:21.666433+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "KEYWORDS_" nie istnieje
+Table "KEYWORDS_" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKjfjbyua3myf6ms61pclbbk7cr foreign key (keyword_id) references keywords_ [42102-232]
+2025-02-03 20:35:25.285177+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table ckeywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table ckeywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table ckeywords (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:35:25.294177+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:35:25.296177+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "CKEYWORDS" nie istnieje
+Table "CKEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKqw9a7l2v76hvyooef3tm30mrx foreign key (keyword_id) references ckeywords [42102-232]
+2025-02-03 20:36:16.438718+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table ckeywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table ckeywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table ckeywords (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:36:16.444716+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:39:01.151244+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table ckeywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table ckeywords (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table ckeywords (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:39:01.159243+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:39:01.160246+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "CKEYWORDS" nie istnieje
+Table "CKEYWORDS" not found; SQL statement:
+alter table if exists campaign_keywords add constraint FKqw9a7l2v76hvyooef3tm30mrx foreign key (keyword_id) references ckeywords [42102-232]
+2025-02-03 20:43:55.008325+01:00 jdbc[3]: null
+org.h2.message.DbException: Połączenie zostało zamknięte przez aplikacje i zostało usunięte przez kolektor nieużytków
+The connection was not closed by the application and is garbage collected [90018-232]
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.message.DbException.get(DbException.java:188)
+	at org.h2.jdbc.JdbcConnection.closeOld(JdbcConnection.java:217)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:134)
+	at org.h2.Driver.connect(Driver.java:59)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:137)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:360)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:202)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:461)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:724)
+	at com.zaxxer.hikari.pool.HikariPool$PoolEntryCreator.call(HikariPool.java:703)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: Połączenie zostało zamknięte przez aplikacje i zostało usunięte przez kolektor nieużytków
+The connection was not closed by the application and is garbage collected [90018-232]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:690)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	... 16 more
+2025-02-03 20:44:00.694723+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:56:17.685639+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null unique, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null unique, primary key (id)) [42001-232]
+2025-02-03 20:56:27.833308+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null, primary key (id)) [42001-232]
+2025-02-03 20:57:04.780192+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "create table xd (id uuid not null, [*]value varchar(255) not null, primary key (id))"; oczekiwano "identifier"
+Syntax error in SQL statement "create table xd (id uuid not null, [*]value varchar(255) not null, primary key (id))"; expected "identifier"; SQL statement:
+create table xd (id uuid not null, value varchar(255) not null, primary key (id)) [42001-232]
